@@ -1,4 +1,4 @@
-![logo](https://github.com/ishamalik04/ishamalik04/blob/main/yzr4lg08zyjijpneclf5.jpeg)
+![logo](https://github.com/ishamalik04/ishamalik04/blob/main/git.png)
 <h1 align="center">Hi 👋, I'm Isha Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
