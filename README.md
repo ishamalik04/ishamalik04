@@ -1,4 +1,3 @@
-![logo](/yzr4lg08zyjijpneclf5.jpeg)
 
 <h1 align="center">Hi 👋, I'm Isha Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -56,3 +55,4 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=ishamalik04&show_icons=true&locale=en" alt="ishamalik04" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishamalik04" alt="ishamalik04" /></p>
+
